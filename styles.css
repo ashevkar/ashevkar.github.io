@@ -2,8 +2,6 @@ body {
     font-family: system-ui;
     color: white;
     text-align: center;
-    background-color: skyblue;
-
 }
 
 .all {
@@ -11,6 +9,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: skyblue;
+
 }
 
 .outer-rectangle {
